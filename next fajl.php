@@ -12,3 +12,5 @@ nooooo :-)
 po vyzvanji :D
             oka
             vyzyvej :D
+            
+            och ouva vagabundos 

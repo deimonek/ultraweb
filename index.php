@@ -1,2 +1,2 @@
 <?php
-echo 'bdlabldabdladbldbldblabdlabdl abldb labd lasb lba lbalbal la blfrom Digimons';
+echo 'bdlabldabdladbldbldblabdlabdl nau changed lbalbal la blfrom Digimons';

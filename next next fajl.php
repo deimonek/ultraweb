@@ -4,5 +4,5 @@
  * To change this templatse file, choose Tools | Templates
  * and open the template in the editor.
  */
-sem tlustej
+sem tlustej... ale za to muzou ty tvoje jogurty
 die();

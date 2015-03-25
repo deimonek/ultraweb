@@ -14,3 +14,6 @@ po vyzvanji :D
             vyzyvej :D
             
             och ouva vagabundos 
+            
+            
+            -> ultra hyper moderni toaletni misa
